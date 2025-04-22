@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm CYBER BLACK LION</h1>
-<h3 align="center">A passionate frontend developer from sri Lanka Cyber Scanners Team<</h3>
+<h3 align="center">A passionate frontend developer from sri Lanka Cyber Scanners Team.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberscanners&label=Profile%20views&color=0e75b6&style=flat" alt="cyberscanners" /> </p>
 
