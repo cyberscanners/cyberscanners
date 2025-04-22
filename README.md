@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [HAC](HAC)
-
 - 🌱 I’m currently learning **Cyber security, Networking, C.E.H**
 
 - 👨‍💻 All of my projects are YouTube videos [https://youtube.com/@slcyberscanners?si=BF-bNOA5gUgL2k3p](https://youtube.com/@slcyberscanners?si=BF-bNOA5gUgL2k3p)
